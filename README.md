@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👯 I’m looking to collaborate on new side projects.
+- 💬 Ask me about data analysis & visualization, backend, frontend (Python, Django).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I´m also musician (clarinet & piano)... And electromechanical engineering.
+
 <!--
 **AntonioFC82/antoniofc82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
